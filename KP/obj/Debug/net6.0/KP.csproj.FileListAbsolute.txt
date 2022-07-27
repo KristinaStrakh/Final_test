@@ -1,0 +1,15 @@
+/Users/kristina/Desktop/Контрольная работа/KP/bin/Debug/net6.0/KP
+/Users/kristina/Desktop/Контрольная работа/KP/bin/Debug/net6.0/KP.deps.json
+/Users/kristina/Desktop/Контрольная работа/KP/bin/Debug/net6.0/KP.runtimeconfig.json
+/Users/kristina/Desktop/Контрольная работа/KP/bin/Debug/net6.0/KP.dll
+/Users/kristina/Desktop/Контрольная работа/KP/bin/Debug/net6.0/ref/KP.dll
+/Users/kristina/Desktop/Контрольная работа/KP/bin/Debug/net6.0/KP.pdb
+/Users/kristina/Desktop/Контрольная работа/KP/obj/Debug/net6.0/KP.csproj.AssemblyReference.cache
+/Users/kristina/Desktop/Контрольная работа/KP/obj/Debug/net6.0/KP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristina/Desktop/Контрольная работа/KP/obj/Debug/net6.0/KP.AssemblyInfoInputs.cache
+/Users/kristina/Desktop/Контрольная работа/KP/obj/Debug/net6.0/KP.AssemblyInfo.cs
+/Users/kristina/Desktop/Контрольная работа/KP/obj/Debug/net6.0/KP.csproj.CoreCompileInputs.cache
+/Users/kristina/Desktop/Контрольная работа/KP/obj/Debug/net6.0/KP.dll
+/Users/kristina/Desktop/Контрольная работа/KP/obj/Debug/net6.0/ref/KP.dll
+/Users/kristina/Desktop/Контрольная работа/KP/obj/Debug/net6.0/KP.pdb
+/Users/kristina/Desktop/Контрольная работа/KP/obj/Debug/net6.0/KP.genruntimeconfig.cache
